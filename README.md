@@ -1,2 +1,1 @@
-# rsschool-cv
-task RS-School
+https://AlexeyZhemerikin.github.io/rsschool-cv/cv
