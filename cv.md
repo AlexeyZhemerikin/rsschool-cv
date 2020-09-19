@@ -1,14 +1,15 @@
 # **Curriculum vitae**
 
-
-
 ## ***Zhemerikin Alexey***
+
 ---
+
 ## Сontacts:
 
 * email: zhemerikin.samspace@gmail.com
 * [VKontacte](https://vk.com/id28867461) 
 * Discord: **Alexey_Zhemerikin#0810**
+
 ---
 ## About myself:
 * Responsible
@@ -16,9 +17,10 @@
 * precision and attention to detail
 * inclined to self-development
 * Teamwork skills.
-
 * I have experience in a leading position.
+
 ---
+
 ## **Skills**:
 * CAD (computer aided design):
   * CREO / PRO ENGINEER;
@@ -29,6 +31,7 @@
   * JavaScript, CSS, HTLM (Basic)
 
 ---
+
 ## Education:
 
 University: ***Samara State Aerospace University***
@@ -36,6 +39,7 @@ University: ***Samara State Aerospace University***
 Specialty: ***Household electronic equipment***
 
 ---
+
 ## Sample code:
 ```
 function chooseExpenses() {
@@ -55,6 +59,7 @@ chooseExpenses();
 ```
 
 ---
+
 ## English language:
 
 level **A2**
