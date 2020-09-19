@@ -28,6 +28,17 @@
   * Python(Basic);
   * JavaScript, CSS, HTLM (Basic)
 
+---
+## Education:
+
+University: ***Samara State Aerospace University***
+
+Specialty: ***Household electronic equipment***
 
 
 
+
+---
+## English language:
+
+level **A2**
