@@ -35,8 +35,24 @@ University: ***Samara State Aerospace University***
 
 Specialty: ***Household electronic equipment***
 
-
-
+---
+## Sample code:
+```
+function chooseExpenses() {
+    for (let i = 0; i < 2; i++) {
+        let a = prompt ("Please enter a required expense item for this month", ""),
+            b = prompt ("How much will it cost?", "");
+    
+        if ( typeof(a)==='string' && typeof(a) != null && typeof(b) != null && a != "" && b != "" && a.length < 50) {
+            appData.expenses[a] = b;
+        } else {
+            i--;
+        }
+    
+    };
+}
+chooseExpenses();
+```
 
 ---
 ## English language:
