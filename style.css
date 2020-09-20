@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.promo{
+    height: 600px;
+}
+.photo{
+    display: inline-block;
+    width: 40%;
+}
+
+.info{
+    display: inline-block;
+    width: 40%;
+    margin-top: 0;
+}
+
+img{
+    height: 400px;
+    
+}
