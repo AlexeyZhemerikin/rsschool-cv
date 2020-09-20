@@ -3,12 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>myCV</title>
 </head>
 <body>
     <section class="promo, container">
         <h1> Curriculum vitae </h1>
-
+        <div class="secton">
         <div class="photo"><img src="imgs/main-photo.jpg" alt="Zhemerikin"></div>
 
         <div class="info">
@@ -22,7 +23,7 @@
                 <li>Discord: Alexey_Zhemerikin#0810</li>
             </ul>
         </div>
- 
+        </div>
     </section>
 
 
@@ -75,20 +76,20 @@
     <section>
         <h3>Sample code:</h3>
         <pre><code type = 'JavaScript'>
-        function chooseExpenses() {
-            for (let i = 0; i < 2; i++) {
-                let a = prompt ("Please enter a required expense item for this month", ""),
-                    b = prompt ("How much will it cost?", "");
-            
-                if ( typeof(a)==='string' && typeof(a) != null && typeof(b) != null && a != "" && b != "" && a.length < 50) {
-                    appData.expenses[a] = b;
-                } else {
-                    i--;
-                }
-            
-            };
-        }
-        chooseExpenses();
+    function chooseExpenses() {
+        for (let i = 0; i < 2; i++) {
+            let a = prompt ("Please enter a required expense item for this month", ""),
+                b = prompt ("How much will it cost?", "");
+        
+            if ( typeof(a)==='string' && typeof(a) != null && typeof(b) != null && a != "" && b != "" && a.length < 50) {
+                appData.expenses[a] = b;
+            } else {
+                i--;
+            }
+        
+        };
+    }
+    chooseExpenses();
         </code></pre>
     </section>
 
